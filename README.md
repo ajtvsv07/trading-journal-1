@@ -1,5 +1,7 @@
 ## Options Trading Journal
 
+<img src="https://www.forexboat.com/wp-content/uploads/2016/10/trading.journal.jpeg" width="300" height="auto"></img>
+
 A trading journal built for options traders from options traders, with the emphasis on premium selling, tastytrade-style.
 
 The goal is to track and organize information about the account's returns and the individual trades so that we can extract valuable insights from this information later on.
