@@ -38,6 +38,9 @@ The tables are:
 
 <b>Built using Python, MySQL, SQLAlchemy, click, pandas</b>
 
+<b>NOTE</b>
+This package is still a work in progress.
+
 ## Features
 
 - MySQL database connection
@@ -71,6 +74,18 @@ or export this environment variable:
 `export DATABASE_URL="mysql+mysqlconnector://[user]:[password]@[host]/[dbname]"`
 
 ## Usage
+
+To input data, initiate the CLI:
+
+```python
+python app.py
+```
+
+After that you'll be prompted for data collection.
+
+Data analysis is done using the 2 jupyter notebooks in the `analytics` folder, one is used to analyze the trades in the trading journal (`trade_analytics.ipynb`), the other is used to analyze changes in the account balance (returns, `account_analytics.ipynb`).
+
+Check them out.
 
 ## Contributions
 
