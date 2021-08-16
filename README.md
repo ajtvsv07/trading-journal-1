@@ -54,14 +54,15 @@ The tables are:
 
 <b>Clone the repo</b>
 
-`git clone`
+`git clone https://github.com/oriesh/trading-journal.git`
 
 <b>Install with pip</b>
 
-`pip install`
+`cd path/to/package`
+`pip install .`
 
 <b>Setting environment variables</b>
-Create a `.env` file inside the root and insert the database URL, I'm using the `mysqlconnector` driver, but you can use any driver you'd like:
+Create a `.env` file inside the root and insert the database URL:
 
 `DATABASE_URL="mysql+mysqlconnector://[user]:[password]@[host]/[dbname]"`
 
