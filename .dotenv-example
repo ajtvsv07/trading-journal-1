@@ -1,0 +1,2 @@
+Change this file name to ".env" and insert the DATABASE_URL env variable in here:
+DATABASE_URL="mysql+mysqlconnector://[user]:[password]@[host]/[dbname]"
