@@ -6,6 +6,8 @@ A trading journal built for options traders from options traders, with the empha
 
 The goal is to track and organize information about the account's returns and the individual trades so that we can extract valuable insights from this information later on.
 
+A trading journal can really help traders improve on their profitability and risk management, it creates good trading habits through self diagnosis and increases the quality of the learning process, it's a must have for every professional options trader.
+
 The lifetime of each options trade is made up of possible 4 stages:
 
 1. Opening the position
